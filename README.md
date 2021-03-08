@@ -1,1 +1,1 @@
-# springboot-building-rest-web-service
+# Building Spring Boot RESTful Web Service with JPA and MySQL
